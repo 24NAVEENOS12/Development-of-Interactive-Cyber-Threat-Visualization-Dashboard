@@ -88,5 +88,5 @@ npm run dev
 ## 🌍 Deployment
 
 🔗 Live Application:
-[https://cybershield-ivory.vercel.app/login](https://cybershield-ivory.vercel.app/login)
+[https://cybershield-ivory.vercel.app](https://cybershield-ivory.vercel.app)
 
