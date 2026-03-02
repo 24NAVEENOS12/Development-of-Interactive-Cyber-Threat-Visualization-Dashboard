@@ -1,46 +1,94 @@
 # Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
-Project Overview
+
+# 🛡 CyberShield - SOC Dashboard
+
+## 📌 Project Overview
+
 CyberShield is a comprehensive Security Operations Center (SOC) dashboard designed to visualize and manage real-time security threats.
 
-Features
-Real-time Threat Monitoring
-Interactive Dashboard with Maps and Charts
-Incident Management
-Network Scanning Capabilities
-Role-Based Access Control (Admin/User)
-Tech Stack
-Frontend: React, Vite, Tailwind CSS
-Backend: Node.js, Express, MongoDB
-AI/ML: Python (for threat analysis)
-Installation & Setup
-Clone the repository
+---
 
-git clone https://github.com/oneekakundu/CyberSecurity_dashboard.git
-cd CyberSecurity_dashboard
-Install Dependencies
+## 🚀 Features
 
-Server:
+* 🔴 Real-time Threat Monitoring
+* 📊 Interactive Dashboard with Maps and Charts
+* 📝 Incident Management
+* 🌐 Network Scanning Capabilities
+* 🔐 Role-Based Access Control (Admin/User)
 
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Vite, Tailwind CSS
+**Backend:** Node.js, Express, MongoDB
+**AI/ML:** Python (for threat analysis)
+
+---
+
+## ⚙ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/24NAVEENOS12/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard.git
+cd Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+#### Server
+
+```bash
 cd server
 npm install
-Client:
+```
 
+#### Client
+
+```bash
 cd client
 npm install
-Environment Setup Create a .env file in the server directory and configure your MongoDB URI, Redis URL, and API keys.
+```
 
-Run the Application
+---
 
-Start Server:
+### 3️⃣ Environment Setup
 
+Create a `.env` file in the **server** directory and configure the following:
+
+* MongoDB URI
+* Redis URL
+* API Keys
+
+---
+
+### 4️⃣ Run the Application
+
+#### Start Server
+
+```bash
 cd server
 npm run dev
-Start Client:
+```
 
+#### Start Client
+
+```bash
 cd client
 npm run dev
+```
 
-Deployment Link:
-https://cybershield-ivory.vercel.app/login
+---
 
-Deployment Link - https://cybershield-ivory.vercel.app/
+## 🌍 Deployment
+
+🔗 Live Application:
+[https://cybershield-ivory.vercel.app/login](https://cybershield-ivory.vercel.app/login)
+
+---
+
+If you want, I can also give you a more professional, ATS-friendly open-source style README with badges and project architecture section.
+
