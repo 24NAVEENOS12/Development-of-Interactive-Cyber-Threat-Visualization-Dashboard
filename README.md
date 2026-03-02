@@ -21,7 +21,9 @@ CyberShield is a comprehensive Security Operations Center (SOC) dashboard design
 ## 🛠 Tech Stack
 
 **Frontend:** React, Vite, Tailwind CSS
+
 **Backend:** Node.js, Express, MongoDB
+
 **AI/ML:** Python (for threat analysis)
 
 ---
