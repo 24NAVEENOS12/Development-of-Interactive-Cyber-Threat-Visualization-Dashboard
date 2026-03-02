@@ -88,7 +88,3 @@ npm run dev
 🔗 Live Application:
 [https://cybershield-ivory.vercel.app/login](https://cybershield-ivory.vercel.app/login)
 
----
-
-If you want, I can also give you a more professional, ATS-friendly open-source style README with badges and project architecture section.
-
