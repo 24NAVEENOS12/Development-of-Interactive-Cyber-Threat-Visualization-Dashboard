@@ -12,6 +12,7 @@ CyberShield is a comprehensive Security Operations Center (SOC) dashboard design
 
 * 🔴 Real-time Threat Monitoring
 * 📊 Interactive Dashboard with Maps and Charts
+* 🌍 Geographical Threat Mapping
 * 📝 Incident Management
 * 🌐 Network Scanning Capabilities
 * 🔐 Role-Based Access Control (Admin/User)
